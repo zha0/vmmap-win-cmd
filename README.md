@@ -7,3 +7,4 @@ get process vmmap on windows.
 
 
 ![enter description here](https://www.github.com/Byzero512/blog_img/raw/master/1553779307703.png)
+![](https://github.com/Byzero512/vmmap_windows_comandline/show.png)
