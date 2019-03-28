@@ -6,5 +6,4 @@ get process vmmap on windows.
 > 3. VMMAP -most -pid <pid>: show all information that about process maps
 
 
-![enter description here](https://www.github.com/Byzero512/blog_img/raw/master/1553779307703.png)
 ![](https://github.com/Byzero512/vmmap_windows_comandline/raw/master/show.png)
