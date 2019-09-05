@@ -3,7 +3,7 @@ get process vmmap on windows, just like cat /proc/PID/maps in linux
 the src code changed from https://github.com/twpol/vmmap , but I complete the protection str
 
 # usage
-> 1. vmmap -pid <pid>
+> 1. vmmap -pid \<pid>
 
 # install
 1. download the release source code, and use vs2017 to compile it into 64bits and 32bits
