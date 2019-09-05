@@ -4,8 +4,8 @@ get process vmmap on windows.
 # usage
 > 1. vmmap -pid <pid>
 
-git clone
-use vs2017 compile both 64bits and 32bits, then add them into PATH
+# install
+1. download the release source code, and use vs2017 to compile it into 64bits and 32bits
 
 
 > the src code changed from https://github.com/twpol/vmmap 
